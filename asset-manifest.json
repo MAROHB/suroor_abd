@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/suroor_abd/static/css/main.03d2ffcb.css",
-    "main.js": "/suroor_abd/static/js/main.c8ec57e1.js",
+    "main.css": "/suroor_abd/static/css/main.87ee6ea0.css",
+    "main.js": "/suroor_abd/static/js/main.da1f90d4.js",
     "index.html": "/suroor_abd/index.html",
-    "main.03d2ffcb.css.map": "/suroor_abd/static/css/main.03d2ffcb.css.map",
-    "main.c8ec57e1.js.map": "/suroor_abd/static/js/main.c8ec57e1.js.map"
+    "main.87ee6ea0.css.map": "/suroor_abd/static/css/main.87ee6ea0.css.map",
+    "main.da1f90d4.js.map": "/suroor_abd/static/js/main.da1f90d4.js.map"
   },
   "entrypoints": [
-    "static/css/main.03d2ffcb.css",
-    "static/js/main.c8ec57e1.js"
+    "static/css/main.87ee6ea0.css",
+    "static/js/main.da1f90d4.js"
   ]
 }
